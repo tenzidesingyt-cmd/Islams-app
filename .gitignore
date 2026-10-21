@@ -1,0 +1,8 @@
+# developer / test artifacts
+tools/chrome-*
+tools/shots/
+tools/shots2/
+*.log
+*.zip
+.DS_Store
+Thumbs.db
